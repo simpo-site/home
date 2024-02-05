@@ -1,0 +1,76 @@
+.elementor-180 .elementor-element.elementor-element-9a81187 > .elementor-container{min-height:75vh;}.elementor-180 .elementor-element.elementor-element-9a81187:not(.elementor-motion-effects-element-type-background), .elementor-180 .elementor-element.elementor-element-9a81187 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../images/loyalty-program.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-180 .elementor-element.elementor-element-9a81187{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:90px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-180 .elementor-element.elementor-element-9a81187 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-180 .elementor-element.elementor-element-0e42897{margin-top:0px;margin-bottom:30px;padding:0px 0px 0px 0px;}.elementor-180 .elementor-element.elementor-element-fd04b18 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 120px;}.elementor-180 .elementor-element.elementor-element-df5b165 .elementor-heading-title{color:var( --e-global-color-primary );}.elementor-180 .elementor-element.elementor-element-df5b165 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:20px 0px 20px 10px;border-style:solid;border-width:0px 0px 0px 1px;border-color:var( --e-global-color-primary );}.elementor-180 .elementor-element.elementor-element-df5b165{width:auto;max-width:auto;}.elementor-180 .elementor-element.elementor-element-8984fa5{margin-top:0px;margin-bottom:100px;padding:0px 0px 0px 0px;}.elementor-180 .elementor-element.elementor-element-9780a83 > .elementor-element-populated{margin:0px 120px 0px 120px;--e-column-margin-right:120px;--e-column-margin-left:120px;padding:0px 0px 0px 0px;}.elementor-180 .elementor-element.elementor-element-5ee4e38{text-align:justify;font-family:"Nunito", Sans-serif;font-size:1.125rem;}.elementor-180 .elementor-element.elementor-element-5ee4e38 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-180 .elementor-element.elementor-element-c81d7c7{text-align:left;}@media(max-width:1024px){.elementor-180 .elementor-element.elementor-element-9a81187 > .elementor-container{min-height:400px;}.elementor-180 .elementor-element.elementor-element-9a81187{margin-top:75px;margin-bottom:0px;}.elementor-180 .elementor-element.elementor-element-fd04b18.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-180 .elementor-element.elementor-element-fd04b18 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-180 .elementor-element.elementor-element-df5b165 .elementor-heading-title{font-size:2rem;}.elementor-180 .elementor-element.elementor-element-df5b165 > .elementor-widget-container{padding:20px 0px 20px 0px;border-width:0px 0px 0px 0px;}.elementor-180 .elementor-element.elementor-element-8984fa5{padding:0px 10px 0px 10px;}.elementor-180 .elementor-element.elementor-element-9780a83 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-180 .elementor-element.elementor-element-5ee4e38{font-size:1rem;}}@media(max-width:767px){.elementor-180 .elementor-element.elementor-element-9a81187 > .elementor-container{min-height:200px;}}/* Start custom CSS for text-editor, class: .elementor-element-5ee4e38 */.elementor-180 .elementor-element.elementor-element-5ee4e38 strong {
+    font-weight: 700;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/nunito-v20-latin-ext_latin-regular.woff2') format('woff2'),
+		url('../fonts/nunito-v20-latin-ext_latin-regular.woff') format('woff'),
+		url('../fonts/nunito-v20-latin-ext_latin-regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nunito';
+	font-style: italic;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/nunito-v20-latin-ext_latin-italic.woff2') format('woff2'),
+		url('../fonts/nunito-v20-latin-ext_latin-italic.woff') format('woff'),
+		url('../fonts/nunito-v20-latin-ext_latin-italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../fonts/nunito-v20-latin-ext_latin-300.woff2') format('woff2'),
+		url('../fonts/nunito-v20-latin-ext_latin-300.woff') format('woff'),
+		url('../fonts/nunito-v20-latin-ext_latin-300.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nunito';
+	font-style: italic;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../fonts/nunito-v20-latin-ext_latin-300italic.woff2') format('woff2'),
+		url('../fonts/nunito-v20-latin-ext_latin-300italic.woff') format('woff'),
+		url('../fonts/nunito-v20-latin-ext_latin-300italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../fonts/nunito-v20-latin-ext_latin-700.woff2') format('woff2'),
+		url('../fonts/nunito-v20-latin-ext_latin-700.woff') format('woff'),
+		url('../fonts/nunito-v20-latin-ext_latin-700.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nunito';
+	font-style: italic;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../fonts/nunito-v20-latin-ext_latin-700italic.woff2') format('woff2'),
+		url('../fonts/nunito-v20-latin-ext_latin-700italic.woff') format('woff'),
+		url('../fonts/nunito-v20-latin-ext_latin-700italic.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nunito';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../fonts/nunito-v20-latin-ext_latin-900.woff2') format('woff2'),
+		url('../fonts/nunito-v20-latin-ext_latin-900.woff') format('woff'),
+		url('../fonts/nunito-v20-latin-ext_latin-900.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'Nunito';
+	font-style: italic;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../fonts/nunito-v20-latin-ext_latin-900italic.woff2') format('woff2'),
+		url('../fonts/nunito-v20-latin-ext_latin-900italic.woff') format('woff'),
+		url('../fonts/nunito-v20-latin-ext_latin-900italic.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
